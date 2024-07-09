@@ -15,3 +15,6 @@ uncensor("abcd", "") ➞ "abcd"
 
 uncensor("*PP*RC*S*", "UEAE") ➞ "UPPERCASE"
 </pre>
+
+<hr>
+The solution has time complexity and space complexity O(n+m) where n and m are the lengths of the two strings.
