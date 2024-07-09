@@ -1,5 +1,5 @@
 # uncensor
-A simple solution for the following Edabit challenge:#
+## A simple solution for the following Edabit challenge:
 
 Someone has attempted to censor my strings by replacing every vowel with a *, l*k* th*s.
 
